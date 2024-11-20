@@ -3,7 +3,7 @@
 🎓 **Computer Science Student** at [Alma Mater Studiorum – Università di Bologna](https://www.unibo.it/en)  
 💻 **Languages:** C, Java  
 📚 **Skills:** Object-oriented and procedural programming, software engineering, computer architectures and mathematical knowledge, high school diploma in linguistics (intermediate knowledge of English and basic understanding of Spanish)  
-🌟 **Interests:** AI, Software Engineering, Videogame Development  
+🌟 **Interests:** AI, Software Engineering, Videogame Development and modding  
 🗂️ **Projects:** *Coming soon...*  
 📄 **Curriculum Vitae:** *Coming soon...*  
 
