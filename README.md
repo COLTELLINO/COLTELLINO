@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**COLTELLINO/COLTELLINO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm **Filippo Patrignani**
 
-Here are some ideas to get you started:
+🎓 **Computer Science Student** at [Alma Mater Studiorum – Università di Bologna](https://www.unibo.it/en)  
+💻 **Languages:** C, Java  
+📚 **Skills:** Object-oriented and procedural programming, software engineering, computer architectures and mathematical knowledge, high school diploma in linguistics (intermediate knowledge of English and basic understanding of Spanish)  
+🌟 **Interests:** AI, Software Engineering, Videogame Development and modding  
+🗂️ **Projects:** NEP (Not Enough Prices mod)  
+📄 **Curriculum Vitae:** *Coming soon...*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Random Stats 
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=COLTELLINO&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=COLTELLINO&theme=catppuccin_mocha&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=COLTELLINO&theme=catppuccin_mocha&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COLTELLINO&langs_count=30&theme=catppuccin_mocha&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div> 
+
+---
+
+### 🌱 *"Opportunities multiply as they are seized."*
+— Sun Tzu, The Art of War
