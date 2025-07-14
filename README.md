@@ -5,7 +5,7 @@
 💻 **Languages:** C, Java, SQL, Python, Bash, Assembly  
 📚 **Skills:** Object-oriented and procedural programming, software engineering, computer architectures and mathematical knowledge, high school diploma in linguistics (intermediate knowledge of English and basic understanding of Spanish and French)  
 🌟 **Interests:** AI, Software Engineering, Videogame Development and modding  
-🗂️ **Projects:** OOP Survivors (Vampire Survivors-Like Game), DB-Prjoect (Database intermediary app for buying/selling videogames) 
+🗂️ **Projects:** OOP Survivors (Vampire Survivors-Like Game), DB-Prjoect (Database intermediary app for buying/selling videogames)  
 📄 **Curriculum Vitae:** *Coming soon...*  
 
 ---
