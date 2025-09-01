@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm **Filippo Patrignani**
 
-🎓 **Computer Science Student** at [Alma Mater Studiorum – Università di Bologna](https://www.unibo.it/en)  
+🎓 **Computer Science and Engineering Student** at [Alma Mater Studiorum – Università di Bologna](https://www.unibo.it/en)  
 💻 **Languages:** C, Java, SQL, Python, Bash, Assembly  
 📚 **Skills:** Object-oriented and procedural programming, software engineering, computer architectures and mathematical knowledge, high school diploma in linguistics (intermediate knowledge of English and basic understanding of Spanish and French)  
 🌟 **Interests:** AI, Software Engineering, Videogame Development and modding  
